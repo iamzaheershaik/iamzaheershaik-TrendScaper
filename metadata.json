@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Trend Scraper",
+  "description": "An application to gather and analyze trending data from various social media platforms based on user-specified topics and time frames, powered by AI.",
+  "requestFramePermissions": []
+}
